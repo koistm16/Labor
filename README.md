@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 
 Dieser Fliesstext stammt von [Wikipedia](https://designers-inn.de/blindtexte/)
 
-und hier ein Bild: [Bild]
+und hier ein Bild: [Bild](/home/schueler/Downloads/icons8-mac-client-24.png)
 
 Bekannte Automarken:
 
